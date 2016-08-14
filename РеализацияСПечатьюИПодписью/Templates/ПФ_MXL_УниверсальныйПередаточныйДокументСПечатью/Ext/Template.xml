@@ -3448,7 +3448,7 @@
 		</row>
 	</rowsItem>
 	<rowsItem>
-		<index>53</index>
+		<index>65</index>
 		<row>
 			<columnsID>0adf41ed-82cc-45a0-9e46-8fe05b28f44a</columnsID>
 			<c>
@@ -3476,13 +3476,13 @@
 		<id>1</id>
 		<formatIndex>206</formatIndex>
 		<beginRow>25</beginRow>
-		<beginRowOffset>45</beginRowOffset>
-		<endRow>27</endRow>
-		<endRowOffset>0</endRowOffset>
+		<beginRowOffset>24</beginRowOffset>
+		<endRow>26</endRow>
+		<endRowOffset>60</endRowOffset>
 		<beginColumn>3</beginColumn>
-		<beginColumnOffset>531</beginColumnOffset>
+		<beginColumnOffset>507</beginColumnOffset>
 		<endColumn>5</endColumn>
-		<endColumnOffset>24</endColumnOffset>
+		<endColumnOffset>0</endColumnOffset>
 		<autoSize>false</autoSize>
 		<pictureSize>Proportionally</pictureSize>
 		<zOrder>0</zOrder>
@@ -3493,13 +3493,13 @@
 		<id>2</id>
 		<formatIndex>206</formatIndex>
 		<beginRow>25</beginRow>
-		<beginRowOffset>36</beginRowOffset>
+		<beginRowOffset>14</beginRowOffset>
 		<endRow>26</endRow>
-		<endRowOffset>78</endRowOffset>
+		<endRowOffset>58</endRowOffset>
 		<beginColumn>9</beginColumn>
-		<beginColumnOffset>363</beginColumnOffset>
+		<beginColumnOffset>360</beginColumnOffset>
 		<endColumn>11</endColumn>
-		<endColumnOffset>21</endColumnOffset>
+		<endColumnOffset>18</endColumnOffset>
 		<autoSize>false</autoSize>
 		<pictureSize>Proportionally</pictureSize>
 		<zOrder>0</zOrder>
@@ -3509,14 +3509,14 @@
 		<drawingType>Picture</drawingType>
 		<id>5</id>
 		<formatIndex>206</formatIndex>
-		<beginRow>37</beginRow>
-		<beginRowOffset>36</beginRowOffset>
-		<endRow>51</endRow>
-		<endRowOffset>21</endRowOffset>
+		<beginRow>51</beginRow>
+		<beginRowOffset>12</beginRowOffset>
+		<endRow>62</endRow>
+		<endRowOffset>42</endRowOffset>
 		<beginColumn>1</beginColumn>
-		<beginColumnOffset>0</beginColumnOffset>
-		<endColumn>3</endColumn>
-		<endColumnOffset>18</endColumnOffset>
+		<beginColumnOffset>78</beginColumnOffset>
+		<endColumn>4</endColumn>
+		<endColumnOffset>33</endColumnOffset>
 		<autoSize>false</autoSize>
 		<pictureSize>Proportionally</pictureSize>
 		<zOrder>0</zOrder>
@@ -3524,8 +3524,8 @@
 	</drawing>
 	<templateMode>true</templateMode>
 	<defaultFormatIndex>207</defaultFormatIndex>
-	<height>55</height>
-	<vgRows>55</vgRows>
+	<height>67</height>
+	<vgRows>67</vgRows>
 	<merge>
 		<r>1</r>
 		<c>1</c>
@@ -4157,8 +4157,8 @@
 		<name>НумерацияЛистов</name>
 		<area>
 			<type>Rows</type>
-			<beginRow>53</beginRow>
-			<endRow>53</endRow>
+			<beginRow>65</beginRow>
+			<endRow>65</endRow>
 			<beginColumn>-1</beginColumn>
 			<endColumn>-1</endColumn>
 			<columnsID>0adf41ed-82cc-45a0-9e46-8fe05b28f44a</columnsID>
@@ -4184,7 +4184,7 @@
 		<area>
 			<type>Rows</type>
 			<beginRow>31</beginRow>
-			<endRow>51</endRow>
+			<endRow>63</endRow>
 			<beginColumn>-1</beginColumn>
 			<endColumn>-1</endColumn>
 		</area>
