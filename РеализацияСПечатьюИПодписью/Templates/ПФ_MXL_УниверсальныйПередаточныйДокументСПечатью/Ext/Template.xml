@@ -3049,7 +3049,8 @@
 			<c>
 				<i>1</i>
 				<c>
-					<f>198</f>
+					<f>162</f>
+					<parameter>ДолжностьРуководителя</parameter>
 				</c>
 			</c>
 			<c>
@@ -3071,6 +3072,8 @@
 			<c>
 				<c>
 					<f>198</f>
+					<parameter>ФИОРуководителя</parameter>
+					<detailParameter>Руководитель</detailParameter>
 				</c>
 			</c>
 			<c>
@@ -3517,6 +3520,57 @@
 		<beginColumnOffset>0</beginColumnOffset>
 		<endColumn>3</endColumn>
 		<endColumnOffset>18</endColumnOffset>
+		<autoSize>false</autoSize>
+		<pictureSize>Proportionally</pictureSize>
+		<zOrder>0</zOrder>
+		<pictureIndex>1</pictureIndex>
+	</drawing>
+	<drawing>
+		<drawingType>Picture</drawingType>
+		<id>6</id>
+		<formatIndex>206</formatIndex>
+		<beginRow>26</beginRow>
+		<beginRowOffset>54</beginRowOffset>
+		<endRow>29</endRow>
+		<endRowOffset>3</endRowOffset>
+		<beginColumn>3</beginColumn>
+		<beginColumnOffset>528</beginColumnOffset>
+		<endColumn>5</endColumn>
+		<endColumnOffset>21</endColumnOffset>
+		<autoSize>false</autoSize>
+		<pictureSize>Proportionally</pictureSize>
+		<zOrder>0</zOrder>
+		<pictureIndex>1</pictureIndex>
+	</drawing>
+	<drawing>
+		<drawingType>Picture</drawingType>
+		<id>7</id>
+		<formatIndex>206</formatIndex>
+		<beginRow>35</beginRow>
+		<beginRowOffset>24</beginRowOffset>
+		<endRow>39</endRow>
+		<endRowOffset>6</endRowOffset>
+		<beginColumn>3</beginColumn>
+		<beginColumnOffset>27</beginColumnOffset>
+		<endColumn>5</endColumn>
+		<endColumnOffset>120</endColumnOffset>
+		<autoSize>false</autoSize>
+		<pictureSize>Proportionally</pictureSize>
+		<zOrder>0</zOrder>
+		<pictureIndex>1</pictureIndex>
+	</drawing>
+	<drawing>
+		<drawingType>Picture</drawingType>
+		<id>10</id>
+		<formatIndex>206</formatIndex>
+		<beginRow>44</beginRow>
+		<beginRowOffset>18</beginRowOffset>
+		<endRow>47</endRow>
+		<endRowOffset>15</endRowOffset>
+		<beginColumn>3</beginColumn>
+		<beginColumnOffset>45</beginColumnOffset>
+		<endColumn>5</endColumn>
+		<endColumnOffset>138</endColumnOffset>
 		<autoSize>false</autoSize>
 		<pictureSize>Proportionally</pictureSize>
 		<zOrder>0</zOrder>
@@ -4192,6 +4246,18 @@
 	<namedItem xsi:type="NamedItemDrawing">
 		<name>ПодписьГлавногоБухгалтера</name>
 		<drawingID>2</drawingID>
+	</namedItem>
+	<namedItem xsi:type="NamedItemDrawing">
+		<name>ПодписьИП</name>
+		<drawingID>6</drawingID>
+	</namedItem>
+	<namedItem xsi:type="NamedItemDrawing">
+		<name>ПодписьКладовщика</name>
+		<drawingID>7</drawingID>
+	</namedItem>
+	<namedItem xsi:type="NamedItemDrawing">
+		<name>ПодписьОтветственного</name>
+		<drawingID>10</drawingID>
 	</namedItem>
 	<namedItem xsi:type="NamedItemDrawing">
 		<name>ПодписьРуководителя</name>
@@ -5534,8 +5600,10 @@
 	<format>
 		<font>0</font>
 		<bottomBorder>2</bottomBorder>
+		<height>80</height>
 		<width>72</width>
 		<textPlacement>Wrap</textPlacement>
+		<fillType>Parameter</fillType>
 	</format>
 	<format>
 		<font>0</font>
