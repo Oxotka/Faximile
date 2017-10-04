@@ -28,6 +28,7 @@
 			<Template>ПФ_MXL_НакладнаяСПечатью</Template>
 			<Template>ПФ_MXL_АктСПечатью</Template>
 			<Template>ПФ_MXL_УниверсальныйПередаточныйДокументСПечатью</Template>
+			<Template>ПФ_MXL_УниверсальныйПередаточныйДокумент981СПечатью</Template>
 		</ChildObjects>
 	</ExternalDataProcessor>
 </MetaDataObject>
